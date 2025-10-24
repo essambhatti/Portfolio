@@ -1,14 +1,12 @@
 export const myProjects = [
   {
     id: 1,
-    title: "Zest - An AI Saas Builder",
+    title: "Build Mate - An AI Saas Builder",
     description:
       "Turn ideas into apps instantly! ⚡ Open-source AI app generator with real-time preview, code interpretation, and full-stack deployment.",
     subDescription: [
       "Developed a platform that leverages AI to help users generate and customize SaaS projects with minimal setup.",
       "Integrated Perplexity AI and Groq API to provide real-time code suggestions, feedback, and project scaffolding.",
-      "Implemented a seamless download system enabling users to export complete project codebases instantly.",
-      "Built with Next.js, React, and Tailwind CSS, ensuring a user modern interface.",
     ],
     href: "",
     logo: "",
