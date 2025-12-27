@@ -135,7 +135,7 @@ export const experiences = [
   {
     title: "Mobile App Developer Intern",
     job: "DigiLawyer",
-    date: "July 2025 - Present",
+    date: "July 2025 - September 2025",
     contents: [
        "Developed and optimized React Native components improving app performance and cross-platform consistency.",
 "Implemented core features (auth, navigation, data integration that improved usability for 500+ beta users.",
@@ -156,51 +156,15 @@ export const experiences = [
 ];
 export const reviews = [
   {
-    name: "Jack",
-    username: "@jack",
-    body: "I've never seen anything like this before. It's amazing. I love it.",
+    name: "Safeeullah",
+    username: "@safeeullah",
+    body: "I hired Essam to make the first MVP of DigiLawyer mobile app in react native. Excellent frontend skills and good work ethics. Gets things done. Very impressed overall.",
     img: "https://robohash.org/jack",
   },
   {
-    name: "Jill",
-    username: "@jill",
-    body: "I don't know what to say. I'm speechless. This is amazing.",
+    name: "Shafaq Afreen",
+    username: "@shafaq",
+    body: "Working with Essam was a great experience! He built my website exactly how I wanted and was super helpful throughout the process. I’ll definitely hire him again",
     img: "https://robohash.org/jill",
-  },
-  {
-    name: "John",
-    username: "@john",
-    body: "I'm at a loss for words. This is amazing. I love it.",
-    img: "https://robohash.org/john",
-  },
-  {
-    name: "Alice",
-    username: "@alice",
-    body: "This is hands down the best thing I've experienced. Highly recommend!",
-    img: "https://robohash.org/alice",
-  },
-  {
-    name: "Bob",
-    username: "@bob",
-    body: "Incredible work! The attention to detail is phenomenal.",
-    img: "https://robohash.org/bob",
-  },
-  {
-    name: "Charlie",
-    username: "@charlie",
-    body: "This exceeded all my expectations. Absolutely stunning!",
-    img: "https://robohash.org/charlie",
-  },
-  {
-    name: "Dave",
-    username: "@dave",
-    body: "Simply breathtaking. The best decision I've made in a while.",
-    img: "https://robohash.org/dave",
-  },
-  {
-    name: "Eve",
-    username: "@eve",
-    body: "So glad I found this. It has changed the game for me.",
-    img: "https://robohash.org/eve",
-  },
+  }
 ];
